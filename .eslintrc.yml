@@ -1,0 +1,10 @@
+env:
+  es6: true
+  browser: true
+
+extends:
+  - eslint:recommended
+
+paeserOptions:
+  ecmaVersion: 2017
+  sourceType: module
