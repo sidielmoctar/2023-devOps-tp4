@@ -1,10 +1,12 @@
+# .eslintrc.yml
+ 
 env:
   es6: true
   browser: true
-
+ 
 extends:
   - eslint:recommended
-
-paeserOptions:
+ 
+parserOptions:
   ecmaVersion: 2017
   sourceType: module
