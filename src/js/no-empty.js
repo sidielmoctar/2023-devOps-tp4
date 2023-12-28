@@ -1,4 +1,4 @@
-
+const foo = 5;
 //Erreur
 if (foo) {
 }
